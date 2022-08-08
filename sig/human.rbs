@@ -1,0 +1,9 @@
+# TypeProf 0.21.3
+
+# Classes
+class Human
+  @name: String
+
+  def initialize: (String human_name) -> void
+  def say: (String msg) -> String
+end
